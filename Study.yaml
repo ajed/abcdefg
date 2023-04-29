@@ -19,3 +19,8 @@ payload:
   - '+.zoom.us'
   - bing.com
   - udemy.com
+  - '+.stackoverflow.com'
+  - '+.stackexchange.com'
+  - '+.mathoverflow.net'
+  - '+.wolframalpha.com'
+  - '+.openai.com'
