@@ -1,0 +1,9 @@
+# NAME: StreamMedia
+# UPDATED: 2022-05-01 02:13:36
+# DOMAIN: 42
+# DOMAIN-SUFFIX: 225
+payload:
+  - artofproblemsolving.com
+  - beastacademy.com
+  - '+.beastacademy.com'
+  - '+.artofproblemsolving.com'
