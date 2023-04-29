@@ -3,7 +3,6 @@
 # DOMAIN: 42
 # DOMAIN-SUFFIX: 225
 payload:
-  - github.com
   - '+.github.com'
   - '+.telegram.com'
   - '+.beastacademy.com'
