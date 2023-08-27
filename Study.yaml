@@ -40,3 +40,4 @@ payload:
   - connectivitycheck.gstatic.com
   - '+.adguard.com'
   - '+.code.org'
+  - '+.ifttt.com'
