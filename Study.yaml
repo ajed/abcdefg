@@ -39,3 +39,4 @@ payload:
   - '+.googleapis.com'
   - connectivitycheck.gstatic.com
   - '+.adguard.com'
+  - '+.code.org'
