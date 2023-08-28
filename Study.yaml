@@ -39,5 +39,6 @@ payload:
   - '+.googleapis.com'
   - connectivitycheck.gstatic.com
   - '+.adguard.com'
+  - '+.adguard-dns.com'
   - '+.code.org'
   - '+.ifttt.com'
