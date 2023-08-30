@@ -42,3 +42,4 @@ payload:
   - '+.adguard-dns.com'
   - '+.code.org'
   - '+.ifttt.com'
+  - dns.mullvad.net
